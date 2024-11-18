@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Pat\\source\\repos\\Socomed\\Socomed\\Components\\Pages\\Polls.razor.js",
+      "PackagePath": "staticwebassets\\Components\\Pages\\Polls.razor.js"
+    },
+    {
+      "Id": "C:\\Users\\Pat\\source\\repos\\Socomed\\Socomed\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Socomed.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Socomed.5bwnnr6n88.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Pat\\source\\repos\\Socomed\\Socomed\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Pat\\source\\repos\\Socomed\\Socomed\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pat\\source\\repos\\Socomed\\Socomed\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pat\\source\\repos\\Socomed\\Socomed\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Socomed.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Socomed.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Socomed.props",
+      "PackagePath": "build\\Socomed.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Socomed.props",
+      "PackagePath": "buildMultiTargeting\\Socomed.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Socomed.props",
+      "PackagePath": "buildTransitive\\Socomed.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
